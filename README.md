@@ -1,3 +1,3 @@
 # BankManager
-Bank Management Software in C with command line interaction
-Project Semester 4
+Project Semester 4 : Bank Management Software in C with command line interaction
+
