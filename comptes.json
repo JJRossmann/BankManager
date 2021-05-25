@@ -1,0 +1,102 @@
+[
+  {
+      "Compte": {
+          "NumeroCompte": 1000,
+          "typeCmpt": 1,
+          "nbTitulaires": 1,
+          "NumeroTit1": 600000,
+          "NumeroTit2": 0,
+          "solde": 999334.000000,
+          "actif": 1,
+          "ListeOperation": [
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 0,
+                  "identifiantTitE": 0,
+                  "montant": 1000000.000000
+              },
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 3000,
+                  "identifiantTitE": 1000,
+                  "montant": 666.000000
+              }
+          ]
+       }
+  },
+  {
+      "Compte": {
+          "NumeroCompte": 1001,
+          "typeCmpt": 1,
+          "nbTitulaires": 1,
+          "NumeroTit1": 600001,
+          "NumeroTit2": 0,
+          "solde": 13.420000,
+          "actif": 0,
+          "ListeOperation": [
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 0,
+                  "identifiantTitE": 0,
+                  "montant": 13.000000
+              },
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 0,
+                  "identifiantTitE": 0,
+                  "montant": 0.000000
+              },
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 0,
+                  "identifiantTitE": 0,
+                  "montant": 0.000000
+              }
+          ]
+       }
+  },
+  {
+      "Compte": {
+          "NumeroCompte": 2000,
+          "typeCmpt": 2,
+          "nbTitulaires": 2,
+          "NumeroTit1": 600001,
+          "NumeroTit2": 600000,
+          "solde": 0.000000,
+          "actif": 1,
+          "ListeOperation": [
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 0,
+                  "identifiantTitE": 0,
+                  "montant": 0.000000
+              }
+          ]
+       }
+  },
+  {
+      "Compte": {
+          "NumeroCompte": 3000,
+          "typeCmpt": 3,
+          "nbTitulaires": 1,
+          "NumeroTit1": 600001,
+          "NumeroTit2": 0,
+          "solde": 666.119995,
+          "actif": 1,
+          "ListeOperation": [
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 0,
+                  "identifiantTitE": 0,
+                  "montant": 0.000000
+              },
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 3000,
+                  "identifiantTitE": 1000,
+                  "montant": 666.000000
+              }
+          ]
+       }
+  }
+]

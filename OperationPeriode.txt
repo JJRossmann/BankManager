@@ -1,0 +1,3 @@
+Date de l'opération,Type de l'opération,Identifiant du compte émetteur, Identifiant du compte récepteur,Montant
+20190407,CHANGEMENT DU SOLDE, , ,13.000000
+20190407,MODIFICATION D'INFORMATIONS DU COMPTE , ,
